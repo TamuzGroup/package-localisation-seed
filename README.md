@@ -15,4 +15,4 @@ fs directory to save localisation files.
 
 Add to package.json scripts (example below for api resource)
 
-```"i18n:seed": "node node_modules/package-localization --platform=api --locale_dir=i18n/locales/"```
+```"i18n:seed": "node node_modules/package-localisation-seed --platform=api --locale_dir=i18n/locales/"```
